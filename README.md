@@ -15,3 +15,7 @@
 ## Activity 4:
 
 ![image](https://github.com/tyagiab3/ECE444-F2023-Assignment1/assets/100087373/bcc93171-2624-4c3b-903e-544a802c3d38)
+
+## Activity 5:
+
+![image](https://github.com/tyagiab3/ECE444-F2023-Assignment1/assets/100087373/e558491e-569f-47d3-98dd-9f1fe41e0d6a)
